@@ -2451,7 +2451,7 @@ function FindProxyForURL(url, host) {
         16402 : 1
     };
 
-var PROXY = '127.0.0.1:8787';
+var PROXY = 'maomi.us:443';
 
     function convertAddress(ipchars) {
         var bytes = ipchars.split('.');
