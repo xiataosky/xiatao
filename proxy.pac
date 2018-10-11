@@ -2451,7 +2451,7 @@ function FindProxyForURL(url, host) {
         16402 : 1
     };
 
-var PROXY = 'HTTPS maomi.us:443';
+var PROXY = 'HTTPS cmule.xyz:443';
 
     function convertAddress(ipchars) {
         var bytes = ipchars.split('.');
