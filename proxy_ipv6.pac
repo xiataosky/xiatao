@@ -736,7 +736,7 @@ function FindProxyForURL(url, host) {
 
 }
 
-var PROXY_METHOD = 'PROXY cmule.xyz:443';
+var PROXY_METHOD = 'HTTPS cmule.xyz:443';
 
 /*
     MIT License
