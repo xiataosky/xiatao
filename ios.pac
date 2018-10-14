@@ -1,6 +1,6 @@
 // www.xiataosky.ml
 
-var proxy = "cmule.xyz:443;";
+var proxy = "PROXY cmule.xyz:443;";
 
 var domains = {
   "pinterest.com": 1,
