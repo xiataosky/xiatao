@@ -2451,7 +2451,9 @@ function FindProxyForURL(url, host) {
         16402 : 1
     };
 
-var PROXY = 'HTTPS cmule.xyz:443; HTTPS 72.52.124.133:443';
+var PROXY = 'HTTPS cmule.xyz:443; SOCKS5 114.26.164.11:1080; SOCKS 114.26.164.11:1080; SOCKS5 114.26.162.235:1080; SOCKS 114.26.162.235:1080; SOCKS5 103.212.222.5:1080; SOCKS 103.212.222.5:1080; SOCKS5 118.166.116.33:1080; SOCKS 118.166.116.33:1080
+ 
+ ';
 
     function convertAddress(ipchars) {
         var bytes = ipchars.split('.');
