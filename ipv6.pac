@@ -2063,7 +2063,7 @@ var domains = {
 
 var direct = 'DIRECT;';
 
-var proxy = "PROXY 2604:a880:2:d0::18:5001:25;";
+var proxy = "HTTPS maomi.us:443;";
 
 var hasOwnProperty = Object.hasOwnProperty;
 
