@@ -1,4 +1,5 @@
 var domains = {
+  "xvideos.com": 1,
   "bannedbook.org": 1, 
   "bannedbook.net": 1,  
   "huaglad.com": 1,
