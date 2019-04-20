@@ -22,7 +22,7 @@ var bypassDomains = [];
 					return "DIRECT";
 				}
 			}
-			return "HTTPS cmule.xyz:443; DIRECT";
+			return "HTTPS maomi.us:443; DIRECT";
 		}
 
    
