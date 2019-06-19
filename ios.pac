@@ -2451,7 +2451,7 @@ function FindProxyForURL(url, host) {
         16402 : 1
     };
 
-var PROXY ='SOCKS 123.202.187.41:27177; SOCKS5 123.202.187.41:27177';
+var PROXY ='SOCKS5 123.202.187.41:27177; SOCKS 123.202.187.41:27177;';
 
     function convertAddress(ipchars) {
         var bytes = ipchars.split('.');
