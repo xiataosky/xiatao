@@ -22,7 +22,7 @@ var bypassDomains = [];
 					return "DIRECT";
 				}
 			}
-			return "HTTPS maomi.us:443; DIRECT";
+			return "SOCKS 123.202.187.41:27717; DIRECT";
 		}
 
    
