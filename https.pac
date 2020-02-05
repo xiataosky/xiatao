@@ -2064,7 +2064,7 @@ var domains = {
 
 var direct = 'DIRECT;';
 
-var proxy = "HTTPS maomi.us:443;";
+var proxy = "SOCKS 35.230.57.74:8787; SOCKS5 35.230.57.74:8787;";
 
 var hasOwnProperty = Object.hasOwnProperty;
 
